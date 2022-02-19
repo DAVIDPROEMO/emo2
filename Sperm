@@ -2,4 +2,4 @@ getgenv().Alts = {
    Alt1 = 
    Alt2 =
                             }
-loadstring(game:Httpget(‘https://raw.githubusercontent.com/DAVIDPROEMO/emo2/main/Cocksperm’ , true))()
+loadstring(game:Httpget('https://raw.githubusercontent.com/DAVIDPROEMO/emo2/main/Cocksperm' , true))()
