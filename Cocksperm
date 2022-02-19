@@ -1,1 +1,2 @@
-game.Players.LocalPlayer.Character:Destroy()
+while true do 
+keypress(0x12)wait()keypress(0x73)wait()keyrelease(0x12)wait()keyrelease(0x73)wait()end 
